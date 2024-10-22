@@ -5,6 +5,9 @@
     "node": true
   },
   "extends": "semistandard",
+  "parserOptions": {
+    "ecmaVersion": 2021
+  },
   "plugins": [
     "standard"
   ],

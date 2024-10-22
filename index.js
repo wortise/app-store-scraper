@@ -6,6 +6,7 @@ const constants = require('./lib/constants');
 
 const methods = {
   app: require('./lib/app'),
+  details: require('./lib/details'),
   list: require('./lib/list'),
   search: require('./lib/search'),
   developer: require('./lib/developer'),
